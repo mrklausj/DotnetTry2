@@ -7,6 +7,10 @@ namespace DotnetTry2
         static void Main(string[] args)
         {
             Console.WriteLine("Testning new codee");
+
+            Console.WriteLine("det er dejlig verj i dag");
+
+
         }
     }
 }
